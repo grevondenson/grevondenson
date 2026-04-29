@@ -21,6 +21,9 @@ I build production-ready web applications with modern technologies, focusing on 
 💼 Open to freelance opportunities | Remote-first
 
 
+MERN Stack aims to simplify the entire tech stack, by pre-determining the technologies. Developers and designers need not go through the pain of deciding what technologies should be used for which business case. Further, they need not learn or hire multiple people who know the different technologies, or put the onus on a single person. With a MERN stack, anyone can build simple or complex applications by just knowing a handful of technologies. This makes production faster and saves overall cost, without compromising on scalability, performance and security.
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/http://instagram.com/yrn.esir/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elvisayilo@gmail.com) 
 
